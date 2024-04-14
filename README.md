@@ -1,7 +1,3 @@
-# ejercicio-alumno
+# Ejercicio de practica Estructuras de Datos
 
-## Integrantes
-
-- integrante1 (usuario github)
-- integrante2 (usuario github)
-...
+PdePop
